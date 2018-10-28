@@ -1,0 +1,10 @@
+test
+car
+city
+metro
+home
+subway
+KFC
+MARIOTT
+VSU
+Basovka
